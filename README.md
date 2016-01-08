@@ -1,7 +1,7 @@
 Tippingcoin Core integration/staging tree
 =====================================
 
-https://Tippingcoin.org
+https://Tippingcoin.cu.cc
 
 What is Tippingcoin?
 ----------------
